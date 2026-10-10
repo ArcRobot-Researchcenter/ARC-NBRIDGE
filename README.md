@@ -3,6 +3,49 @@
 Nigerian multilingual voice communication, built on the N-ATLaS models (Hausa, Yoruba, Igbo and Nigerian-accented English).
 A research prototype prepared for the National AI Innovation Challenge.
 
+
+# ARC N-BRIDGE
+### AI-Powered Nigerian Language Communication | NAIC 2026
+
+ARC N-BRIDGE is a voice-first communication platform designed to help speakers of Hausa, Yoruba, Igbo, and Nigerian-accented English communicate across language barriers. It integrates N-ATLaS speech recognition with AI-powered translation and speech output where supported.
+
+## Application Screenshots
+
+### 1. VoiceBridge — Multilingual Conversation
+![ARC N-BRIDGE VoiceBridge](https://github.com/ArcRobot-Researchcenter/ARC-NBRIDGE/blob/189cbec9c3306fecab27da8340bcbd0fe06bda50/Nigeria%20language%20Transilator%20%20VoiceBridge%20%C2%B7%20ARC%20N-BRIDGE.png?raw=true)
+
+### 2. Evaluation Lab — Speech and Language Testing
+![ARC N-BRIDGE Evaluation Lab](https://github.com/ArcRobot-Researchcenter/ARC-NBRIDGE/blob/189cbec9c3306fecab27da8340bcbd0fe06bda50/speech%20to%20test%2032%20Evaluation%20Lab%20%C2%B7%20ARC%20N-BRIDGE.png?raw=true)
+
+## Video Demonstrations
+
+### Demo 1 — ARC N-BRIDGE
+[![Watch ARC N-BRIDGE Demo 1](https://img.youtube.com/vi/ByIpBQFXQ7M/hqdefault.jpg)](https://youtu.be/ByIpBQFXQ7M)
+
+**[Watch Demo 1 on YouTube](https://youtu.be/ByIpBQFXQ7M)**
+
+### Demo 2 — ARC N-BRIDGE
+[![Watch ARC N-BRIDGE Demo 2](https://img.youtube.com/vi/HR8DRkXJEqY/hqdefault.jpg)](https://youtu.be/HR8DRkXJEqY)
+
+**[Watch Demo 2 on YouTube](https://youtu.be/HR8DRkXJEqY)**
+
+## Key Technologies
+
+- N-ATLaS automatic speech recognition (ASR)
+- NLLB-200 AI translation
+- Python and FastAPI
+- PHP, MySQL, and Bootstrap
+- Text-to-speech models where available
+
+## Current Development Status
+
+ARC N-BRIDGE is a working prototype undergoing testing and evaluation. Igbo text-to-speech is a known limitation under investigation; translated text remains available when voice output cannot be generated.
+
+## Developed by ARC ROBOTICS
+National AI Innovation Challenge (NAIC) 2026  
+Innovation & Enterprise Track — PS2: Voice-First Access
+
+
 It has two jobs:
 
 1. **Evaluation Lab** - test speech-to-text, translation and text-to-speech one at a time, score the results with a person's judgement, WER and CER.
